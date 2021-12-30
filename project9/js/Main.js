@@ -13,7 +13,6 @@ const Main = () => {
             <View  style={{flex: 3, marginTop: 30}}><Body /></View>
             <View  style={{flex: 3}}><Footer /></View>
             <View  style={{flex: 1 ,marginTop: 30, alignContent: 'flex-end'}}><LastFooter /></View>
-
         </View>
     )    
 }
